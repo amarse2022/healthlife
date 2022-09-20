@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amarse2022.github.io/health-life/sitemap.xml
